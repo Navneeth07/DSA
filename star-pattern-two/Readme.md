@@ -1,0 +1,6 @@
+    STAR PATTERN - TWO
+
+        * 
+        * * 
+        * * * 
+        * * * * 
